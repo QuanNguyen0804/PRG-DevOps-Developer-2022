@@ -1,0 +1,3 @@
+server/node_modules
+client/test-be/node_modules
+.env
